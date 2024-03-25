@@ -1,3 +1,2 @@
 # CRUD
-C.R.U.D Operation 
-performing CRUD operation using PHP and My SQL 
+Performing C.R.U.D Operation using PHP and My SQL
